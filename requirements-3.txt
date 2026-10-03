@@ -1,4 +1,4 @@
 python-telegram-bot[job-queue]==21.6
-httpx
-jdatetime
+httpx==0.27.2
+jdatetime==5.0.0
 tzdata
